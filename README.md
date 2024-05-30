@@ -1,5 +1,5 @@
 # RFR-MLP
-Random Forest Regression and Multi-Layer Perceptron Learning
+MLR, Random Forest Regression and Multi-Layer Perceptron Learning
 
 
 
